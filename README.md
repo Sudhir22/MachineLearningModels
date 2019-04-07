@@ -1,2 +1,3 @@
 # Information Retrieval using ElasticSearch
-Searching for documents and ranking them
+Indexing documents<br>
+Searching for documents and ranking them using ElasticSearch
